@@ -1,0 +1,22 @@
+syntax="proto3";
+option java_package="net.fred.stubs";
+
+service BankService {
+  rpc convert(ConvertCurrencyRequest) returns(ConvertCurrencyResponse); //unary model
+  rpc getCurrencyStream(ConvertCurrencyRequest) returns(stream ConvertCurrencyResponse); //Server streaming model
+  rpc performCurrencyStream(stream ConvertCurrencyRequest) returns(ConvertCurrencyResponse); //client streaming model
+  rpc fullCurrencyStream(stream ConvertCurrencyRequest) returns(stream ConvertCurrencyResponse); //full streaming model (Bidirectional model)
+}
+
+message ConvertCurrencyRequest{
+  string currencyFrom = 1;
+  string currencyTo = 2;
+  float amount = 3;
+}
+
+message ConvertCurrencyResponse{
+  string currencyFrom = 1;
+  string currencyTo = 2;
+  float amount = 3;
+  float result = 4;
+}

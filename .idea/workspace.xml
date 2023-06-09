@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15c3b65e-a880-4d12-8d13-b19147fe3bed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/client/BankClientGrpc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/client/BankClientGrpc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/client/BankClientGrpc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/client/BankClientGrpc4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/stubs/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/fred/stubs/BankServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bank.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QwHINjkab0mq31c4iJg4eLDps7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Prime_Legion/Documents/IDEA/grpc-enset-client/grpc-enset-client/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prime_Legion\Documents\IDEA\grpc-enset-client\grpc-enset-client\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.fred.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BankClientGrpc5">
+    <configuration name="BankClientGrpc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.fred.client.BankClientGrpc1" />
+      <module name="grpc-enset-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.fred.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankClientGrpc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.fred.client.BankClientGrpc2" />
+      <module name="grpc-enset-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.fred.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankClientGrpc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.fred.client.BankClientGrpc3" />
+      <module name="grpc-enset-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.fred.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankClientGrpc4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.fred.client.BankClientGrpc4" />
+      <module name="grpc-enset-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.fred.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankClientGrpc5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.fred.client.BankClientGrpc5" />
+      <module name="grpc-enset-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.fred.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankClientGrpc5" />
+        <item itemvalue="Application.BankClientGrpc4" />
+        <item itemvalue="Application.BankClientGrpc3" />
+        <item itemvalue="Application.BankClientGrpc2" />
+        <item itemvalue="Application.BankClientGrpc1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15c3b65e-a880-4d12-8d13-b19147fe3bed" name="Changes" comment="" />
+      <created>1686257644667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686257644667</updated>
+      <workItem from="1686257645824" duration="5583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
